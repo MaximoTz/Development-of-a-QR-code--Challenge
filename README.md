@@ -10,8 +10,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/MaximoTz/Development-of-a-QR-code--Challenge)
-- Live Site URL: [Add live site URL here](https://maxdevstech.netlify.app/)
+- Solution URL: [GitHub-Repository](https://github.com/MaximoTz/Development-of-a-QR-code--Challenge)
+- Live Site URL: [Live Sive URL](https://maxdevstech.netlify.app/)
 
 
 ### Built with

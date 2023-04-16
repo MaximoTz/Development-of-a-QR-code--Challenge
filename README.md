@@ -11,7 +11,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [GitHub-Repository](https://github.com/MaximoTz/Development-of-a-QR-code--Challenge)
-- Live Site URL: [Live Sive URL](https://maxdevstech.netlify.app/)
+- Live Site URL: [Live Sive URL](https://codeqr-public.netlify.app/)
 
 
 ### Built with
